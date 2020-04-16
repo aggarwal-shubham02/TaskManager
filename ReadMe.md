@@ -1,0 +1,1 @@
+Task and note making app to manage your own task and associated notes with it with some functionalites like set your priorities and also can sort the tasks according to date and priorites.
